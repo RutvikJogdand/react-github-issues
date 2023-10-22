@@ -1,0 +1,11 @@
+li:hover{
+    background-color: rgba(249, 249, 249, 0.87);
+}
+
+.search-container{
+    min-width: 300px;
+}
+
+.avd-data-info{
+    flex: 1;
+}
