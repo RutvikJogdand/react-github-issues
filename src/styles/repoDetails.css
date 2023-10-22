@@ -1,0 +1,10 @@
+.info-container{
+    flex: 1;
+    min-width: 300px;
+}
+
+#modal-close-btn{
+    position: absolute;
+    right: 7px;
+    top: 2px;
+}
